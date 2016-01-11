@@ -1,1 +1,6 @@
 Cold and dry. Everything is red
+commit cd1d3ef2756a6451e0ed23a32b09a4f34b13ef34
+Author: dgnorman <d.g.norman@dundee.ac.uk>
+Date:   Mon Jan 11 14:05:38 2016 +0000
+
+    start notes on our base
